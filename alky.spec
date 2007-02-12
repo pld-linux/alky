@@ -2,7 +2,7 @@
 %define	_rev 28
 %define	_rel 0.1
 Summary:	alky - bringing Microsoft Windows programs to Linux and Mac
-Summary(pl.UTF-8):   alky - przenoszenie programów z Microsoft Windows na Linuksa i Maca
+Summary(pl.UTF-8):	alky - przenoszenie programów z Microsoft Windows na Linuksa i Maca
 Name:		alky
 Version:	0
 Release:	0.1
