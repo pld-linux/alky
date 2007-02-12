@@ -2,7 +2,7 @@
 %define	_rev 28
 %define	_rel 0.1
 Summary:	alky - bringing Microsoft Windows programs to Linux and Mac
-Summary(pl):	alky - przenoszenie programów z Microsoft Windows na Linuksa i Maca
+Summary(pl.UTF-8):   alky - przenoszenie programÃ³w z Microsoft Windows na Linuksa i Maca
 Name:		alky
 Version:	0
 Release:	0.1
@@ -24,15 +24,15 @@ Windows applications use a very different set of libraries from Linux
 or OS X applications so we are also working on a library called
 LibAlky that will provide those Windows libraries to the application.
 
-%description -l pl
-Alky (wymawiane "AL-KI") to narzêdzie pozwalaj±ce przekszta³ciæ
-program wykonywalny z Windows na binarkê dzia³aj±c± pod systemem Mac
-OS X lub Linux. Aktualnie projekt skupia siê na grach, ale wkrótce
-zostanie dodana obs³uga innych aplikacji. Warstwa przekszta³cania
-binariów dzia³a ju¿ w pe³ni na OS X, a obs³uga Linuksa jest w trakcie
-tworzenia. Oczywi¶cie aplikacje windowsowe u¿ywaj± znacz±co innego
-zestawu bibliotek ni¿ aplikacje pod Linuksem czy OS X, wiêc trwaj±
-prace tak¿e nad bibliotek± LibAlky, udostêpniaj±c± aplikacjom te
+%description -l pl.UTF-8
+Alky (wymawiane "AL-KI") to narzÄ™dzie pozwalajÄ…ce przeksztaÅ‚ciÄ‡
+program wykonywalny z Windows na binarkÄ™ dziaÅ‚ajÄ…cÄ… pod systemem Mac
+OS X lub Linux. Aktualnie projekt skupia siÄ™ na grach, ale wkrÃ³tce
+zostanie dodana obsÅ‚uga innych aplikacji. Warstwa przeksztaÅ‚cania
+binariÃ³w dziaÅ‚a juÅ¼ w peÅ‚ni na OS X, a obsÅ‚uga Linuksa jest w trakcie
+tworzenia. OczywiÅ›cie aplikacje windowsowe uÅ¼ywajÄ… znaczÄ…co innego
+zestawu bibliotek niÅ¼ aplikacje pod Linuksem czy OS X, wiÄ™c trwajÄ…
+prace takÅ¼e nad bibliotekÄ… LibAlky, udostÄ™pniajÄ…cÄ… aplikacjom te
 biblioteki windowsowe.
 
 %prep
